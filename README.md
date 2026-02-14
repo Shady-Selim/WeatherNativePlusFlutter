@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/7cf2f189-1e68-4b9e-a778-a49636720c41
+
 # Weather Native Plus Flutter (Android)
 
 This is a native Android application built with **Jetpack Compose** that demonstrates how to embed a **Flutter module** directly into a native view hierarchy.
