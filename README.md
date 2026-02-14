@@ -17,7 +17,7 @@ This is a native Android application built with **Jetpack Compose** that demonst
 ## Requirements
 - Android Studio Iguana or newer.
 - Flutter SDK installed and configured.
-- The `flutter_weather_module` must be located in the directory adjacent to this project (as configured in `settings.gradle`).
+- The [`flutter_weather_module`](https://github.com/Shady-Selim/flutter_weather_module) must be located in the directory adjacent to this project (as configured in `settings.gradle`).
 
 ## Setup
 1. Ensure the `flutter_weather_module` is in the same parent folder as this project.
